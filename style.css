@@ -1,6 +1,27 @@
 /* Folha de estilo One Page
 @uthor Snoop
 */
-body{
-    background-color: #ff0000;
+
+
+@media (min-width: 576px){
+    body{
+        background-color: #0ff;
+    }
+}
+@media (min-width: 768px){
+    body{
+        background-color: #ff0;
+    }
+}
+
+@media (min-width: 992px){
+    body{
+        background-color: #ff6600;
+    }
+}
+
+@media (min-width: 1200px){
+    body{
+        background-color: #ff0000;
+    }
 }
